@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: currency-exchange
+
+server:
+  error:
+    include-message: always
+    include-binding-errors: always
+
+logging:
+  level:
+    org.example.currency: INFO
