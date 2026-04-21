@@ -1,0 +1,13 @@
+{
+  "table": "C",
+  "currency": "dolar amerykanski",
+  "code": "USD",
+  "rates": [
+    {
+      "no": "073/C/NBP/2026/04/16",
+      "effectiveDate": "2026-04-16",
+      "bid": 3.8214,
+      "ask": 3.8982
+    }
+  ]
+}
